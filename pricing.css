@@ -1,0 +1,167 @@
+.page4{
+    margin-left: 220px;
+    font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 120%;
+/* identical to box height, or 29px */
+margin-top: 40px;
+
+color: #F77881;
+
+}
+.page4 p{
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 120%;
+/* identical to box height, or 17px */
+margin-top: 32px;
+
+
+color: #9B9EA3;
+
+opacity: 0.9;
+}
+.page4 h1{
+    font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 120%;
+/* identical to box height, or 48px */
+margin-top: 0;
+
+color: #190E2F;
+
+opacity: 0.9;
+}
+.loveyou{
+    margin-left: 58%;
+    font-weight: 600;
+font-size: 22px;
+line-height: 120%;
+/* identical to box height, or 24px */
+
+text-transform: uppercase;
+margin-bottom: 15px ;
+color: #4e535c;
+
+opacity: 0.9;
+
+
+}
+.low{
+    width: 850px;
+    height: 500px;
+}
+.article{
+    margin-left: 220px;
+    width: 1350px;
+    height: 900px;
+   
+    display: flex;
+    }
+.arti{
+    font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 120%;
+/* identical to box height, or 24px */
+
+text-transform: uppercase;
+
+color: #4e535c;
+
+opacity: 0.9;
+}
+.bigtext{
+    width: 850px;
+    height: 400px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 161.3%;
+/* or 26px */
+
+letter-spacing: 0.01em;
+
+color: rgba(25, 14, 47, 0.8);
+margin-top: 10px;
+}
+.desk{
+    margin-top: 30px;
+}
+.another{
+   
+    width: 400px;
+    height: 650px;
+  
+  margin-left: 30px;
+
+}
+.rigths::after{
+    display: table;
+    clear: both;
+   
+}
+.photosyo{
+ 
+ 
+ 
+ margin-top: 0;
+   
+background: url(.jpg);
+filter: drop-shadow(0px 4px 56px rgba(0, 0, 0, 0.06));
+border-radius: 4px;
+    width: 180px;
+ margin-left: 0;
+}
+.right5{
+    display: flex;
+}
+.luluni{
+    font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* or 150% */
+margin-left: 15px;
+
+
+color: rgba(25, 14, 47, 0.8);
+width: 200px;
+height: 80px;
+
+}
+.month{
+    margin-left: 15px;
+    font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+text-transform: uppercase;
+margin-top: 8px;
+color: #9B9EA3;
+
+}
+.right6{
+    display: flex;
+    margin-top: 30px;
+}
+.luluni2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 150% */
+    margin-left: 15px;
+    
+    margin-top: 5px;
+    color: rgba(25, 14, 47, 0.8);
+    width: 220px;
+    height: 80px;
+    
+}
+

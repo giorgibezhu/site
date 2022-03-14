@@ -1,0 +1,88 @@
+.page5{
+    font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+margin-left: 320px;
+margin-top: 60px;
+color: #F77881;
+
+}
+.help{
+    font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 120%;
+/* identical to box height, or 48px */
+
+
+color: #190E2F;
+
+opacity: 0.9;
+margin-top: 35px;
+margin-left: 600px;
+}
+.contactman{
+    width: 538px;
+    height: 677px;
+    margin-left: 600px;
+    
+    margin-top: 30px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 56px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+}
+.crazy{
+    width: 441px;
+    height: 500px;
+ 
+    margin-top: 38px;
+    margin-left: 48px;
+} 
+input[type=text]{
+    padding: 15px;
+    width: 92%;
+    height: 36px;
+    background: #FFFFFF;
+border: 1px solid rgba(218, 219, 221, 0.64);
+border-radius: 8px;
+margin-top: 12px;
+}
+input[type=tel]{
+    padding: 15px;
+    width: 92%;
+    height: 36px;
+    background: #FFFFFF;
+border: 1px solid rgba(218, 219, 221, 0.64);
+border-radius: 8px;
+margin-top: 12px;
+}
+input[type=checkbox]{
+    margin-top: 25px;
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+
+}
+.korona{
+    width: 500px;
+    height: 40px;margin-left:48px ;
+    margin-top: 25px;
+    
+
+}
+.red_button9{
+    background: #FF707A;
+    width: 183px;
+    height: 56px;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    border-color: #FF707A;
+    margin-top: 40px;
+    margin-left: 48PX;
+}
